@@ -17,7 +17,7 @@ const projects = [
     cardImage: "assets/images/project-page/bebekginyo-icon.png",
     description: "A order food app built using basic java.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "assets/video/project-page/OrderAppAdmin.mp4",
+    Previewlink: "https://youtu.be/iO1dNRtk-CY?si=JcDk6bIJbceVjvZK",
     Githublink: "",
   },
   {
